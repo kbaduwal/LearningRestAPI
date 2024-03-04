@@ -1,3 +1,5 @@
+//Entity Class for representing a user
+
 package com.luv2code.springboot.thymeleafdemo.model;
 
 import jakarta.persistence.Entity;
