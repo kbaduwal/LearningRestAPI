@@ -26,6 +26,4 @@ INSERT INTO `user` VALUES
 	(3,'Avani','Gupta','Avani','avani@luv2code.com'),
 	(4,'Yuri','Petrov','Yuri','yuri@luv2code.com'),
 	(5,'Juan','Vega','Juan','juan@luv2code.com');
-    
-    select * from user;
 
